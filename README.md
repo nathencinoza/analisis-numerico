@@ -1,7 +1,9 @@
+OBJETIVO
+
 El objetivo del trabajo práctico es determinar el coeficiente de amortiguamiento para evitar las
 vibraciones excesivas en una estructura que está siendo sometida a una carga cíclica.
 
-**Problema de valores iniciales:
+Problema de valores iniciales:
 
 1) Se debe resolver la ecuación diferencial dada por la segunda ley de Newton obteniendo la
 posición, la velocidad y la aceleración.
